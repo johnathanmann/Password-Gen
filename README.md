@@ -9,6 +9,7 @@ Check out the different aspects of the project below:
 - [GitHub Page](https://johnathanmann.github.io/Password-Gen/)
 - [Repository](https://github.com/johnathanmann/Password-Ge)
 - [Video of deployed application](https://watch.screencastify.com/v/aFVwpkoSQxhPxLRXRE0W)
+
 *Please note not all password combinations are seen in video*
 
 ![Screenshot of password generator the user can see the textbox where their password will appear and the button they can click to go through the process of customizing their password.](website_screenshot.PNG)
