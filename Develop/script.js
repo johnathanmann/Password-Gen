@@ -32,10 +32,7 @@ function writePassword() {
   } else if (length < 8){
     alert("Password must be between 8 and 128 characters.");
     length= prompt("Choose a password length between 8 and 128 characters:");
-  } else if (length = null, "", " "){
-    alert("Password must be between 8 and 128 characters.");
-    length= prompt("Choose a password length between 8 and 128 characters:");
-  } 
+   } 
 
   // These confirms will log what prefences the user has for their password
   var lowerCase= confirm("Would you like to include lower case characters?");
