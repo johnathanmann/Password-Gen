@@ -34,7 +34,7 @@ function writePassword() {
     length= prompt("Choose a password length between 8 and 128 characters:");
    } 
 
-  // These confirms will log what prefences the user has for their password
+  // These confirms will log what preferences the user has for their password
   var lowerCase= confirm("Would you like to include lower case characters?");
   var upperCase= confirm("Would you like to include upper case characters?");
   var numeric= confirm("Would you like to include numbers?");
