@@ -44,7 +44,7 @@ function writePassword() {
   var specialCharacters= confirm("Would you like to include special characters?");
 
   // Forces user to make at least one selection
-  if(!length && !lowerCase && !upperCase && !numeric && !specialCharacters == true){
+  if(!lowerCase && !upperCase && !numeric && !specialCharacters == true){
     alert("You must make at least one selection.")
     passwordText = "";
   }
